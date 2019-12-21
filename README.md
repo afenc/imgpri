@@ -1,4 +1,4 @@
-# image hosting
+# 圖床 for markdown
 uploading img for markdown
 must be public, otherwise upic can't upload it or mkdown editor can't parse it.
 2019-12-16 需設為公開！
