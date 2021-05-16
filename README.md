@@ -3,6 +3,7 @@ uploading img for markdown
 must be public, otherwise upic can't upload it or mkdown editor can't parse it.
 2019-12-16 需設為公開！
 token名稱選要調用的app or service，跟repo沒關係
+token不會選時間改變；用去年拿到的也可以(2021-05-16)
 
 ＃upic
 1. 上傳時不能用已經用過的檔名。
